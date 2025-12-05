@@ -7,8 +7,8 @@
 // 1080p
 
 @enabled
-0000FC90 08F080D2 // mov x8, #0x780
-0000FC98 0887C0F2 // movk x8, #0x438, lsl #32
+00008780 08F080D2 // mov x8, #0x780
+00008790 0887C0F2 // movk x8, #0x438, lsl #32
 @stop
 
 @KeatonTheBot
