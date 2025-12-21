@@ -1,0 +1,14 @@
+@nsobid-2AD8CC7892EBF9FAB667F6D218366C24F073A89F
+# Trails in the Sky 1st Chapter [01002C9022770000] v1.0.4
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable Bloom
+
+@enabled
+0050A287 00000000
+@stop
+
+@KeatonTheBot
+https://linktr.ee/keatonthebot
